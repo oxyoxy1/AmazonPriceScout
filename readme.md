@@ -1,7 +1,4 @@
-README.md
-markdown
-Copy
-Edit
+
 # Amazon Price Scout
 
 **Amazon Price Scout** is a simple tool designed to help users track prices for products listed on Amazon. It allows users to input an item name and returns a list of products that match the search criteria. It also includes sorting by price (low to high) and provides a direct link to the product page for easy purchase.
@@ -19,41 +16,28 @@ Edit
 
 ```bash
 git clone https://github.com/yourusername/Amazon-Price-Scout.git
+```
+```bash
 cd Amazon-Price-Scout
-Install dependencies using the requirements.txt:
+```
 
-bash
-Copy
-Edit
+2. Install dependencies using the requirements.txt:
+```bash
 pip install -r requirements.txt
-Run the program:
+```
 
-bash
-Copy
-Edit
+3. Run the program:
+
+```bash
 python main.py
-Contact
+```
+### Contact
 Creator: Kenneth Gauthier aka oxy
-
 Email: oxycaution@gmail.com
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to modify and distribute the project as per the license terms.
-
-yaml
-Copy
-Edit
-
 ---
 
-### Instructions:
-
-- **LICENSE**: Use the MIT License, which is a very permissive open-source license, allowing others to freely use, modify, and distribute your code.
-  
-- **README.md**: Describes your project and how to set it up and use it.
-
----
-
-Let me know if you need any adjustments!
+***ENJOY!***
