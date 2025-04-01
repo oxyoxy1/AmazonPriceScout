@@ -8,11 +8,11 @@
 </div>
 <br>
 ### Features:
-- **Search Amazon**: Users can search for products based on an item name.
-- **Price Filtering**: Excludes unwanted product categories like cables, controllers, etc.
-- **Sorted Results**: Displays product results sorted by price, from low to high.
-- **Clickable Links**: Direct links to product pages are provided for easy access.
-- **Background Music**: Relaxing background music is played while using the application.
+* **Search Amazon**: Users can search for products based on an item name.
+* **Price Filtering**: Excludes unwanted product categories like cables, controllers, etc.
+* **Sorted Results**: Displays product results sorted by price, from low to high.
+* **Clickable Links**: Direct links to product pages are provided for easy access.
+* **Background Music**: Relaxing background music is played while using the application.
   
 ### Installation
 
