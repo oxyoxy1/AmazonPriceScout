@@ -7,7 +7,8 @@
   <img src="images/app_screenshot.png" alt="App Screenshot" width="600" height="400"/>
 
 <br>
-### Features:
+
+### Features
   * **Search Amazon**: Users can search for products based on an item name.
   * **Price Filtering**: Excludes unwanted product categories like cables, controllers, etc.
   * **Sorted Results**: Displays product results sorted by price, from low to high.
