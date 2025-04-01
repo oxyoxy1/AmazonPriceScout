@@ -48,4 +48,4 @@ Feel free to modify and distribute the project as per the license terms.
 ---
 
 ***ENJOY!***
-<img src="images/icon.png" alt="App Screenshot" width="600" height="400"/>
+<img src="images/icon.jpg" alt="Alternative App Icon" width="600" height="400"/>
