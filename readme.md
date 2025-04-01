@@ -43,7 +43,9 @@ Email: oxycaution@gmail.com
 ### License
 <br>
 This project is licensed under the MIT License - see the LICENSE file for details.
+[Download](LICENSE)
 Feel free to modify and distribute the project as per the license terms.
+<br>
 ---
 
 ***ENJOY!***
