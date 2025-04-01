@@ -4,9 +4,7 @@
 **Amazon Price Scout** is a simple tool designed to help users track prices for products listed on Amazon. It allows users to input an item name and returns a list of products that match the search criteria. It also includes sorting by price (low to high) and provides a direct link to the product page for easy purchase. <br>
 *Screenshot*: <br>
 
-<div style="text-align: center;">
   <img src="images/app_screenshot.png" alt="App Screenshot" width="600" height="400"/>
-</div>
 
 <br>
 ### Features:
