@@ -36,7 +36,8 @@ pip install -r requirements.txt
 python main.py
 ```
 ### Contact
-Creator: Kenneth Gauthier aka oxy
+Creator: Kenneth Gauthier a.k.a. 'oxy'
+<br>
 Email: oxycaution@gmail.com
 
 ### License
