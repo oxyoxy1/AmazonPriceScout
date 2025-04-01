@@ -49,4 +49,5 @@ Feel free to modify and distribute the project as per the license terms.
 
 ***ENJOY!***
 <br>
+<br>
 <img src="images/icon.jpg" alt="Alternative App Icon" width="400" height="400"/>
