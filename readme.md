@@ -3,16 +3,18 @@
 
 **Amazon Price Scout** is a simple tool designed to help users track prices for products listed on Amazon. It allows users to input an item name and returns a list of products that match the search criteria. It also includes sorting by price (low to high) and provides a direct link to the product page for easy purchase. <br>
 *Screenshot*: <br>
+
 <div style="text-align: center;">
   <img src="images/app_screenshot.png" alt="App Screenshot" width="600" height="400"/>
 </div>
+
 <br>
 ### Features:
-* **Search Amazon**: Users can search for products based on an item name.
-* **Price Filtering**: Excludes unwanted product categories like cables, controllers, etc.
-* **Sorted Results**: Displays product results sorted by price, from low to high.
-* **Clickable Links**: Direct links to product pages are provided for easy access.
-* **Background Music**: Relaxing background music is played while using the application.
+  * **Search Amazon**: Users can search for products based on an item name.
+  * **Price Filtering**: Excludes unwanted product categories like cables, controllers, etc.
+  * **Sorted Results**: Displays product results sorted by price, from low to high.
+  * **Clickable Links**: Direct links to product pages are provided for easy access.
+  * **Background Music**: Relaxing background music is played while using the application.
   
 ### Installation
 
