@@ -41,8 +41,8 @@ Creator: Kenneth Gauthier a.k.a. 'oxy'
 Email: oxycaution@gmail.com
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-[Download](https://github.com/oxyoxy1/AmazonPriceScout/blob/main/LICENSE)
+This project is licensed under the MIT License - see the LICENSE file for details. <br>
+[Download](https://github.com/oxyoxy1/AmazonPriceScout/blob/main/LICENSE) <br>
 Feel free to modify and distribute the project as per the license terms.
 
 ---
